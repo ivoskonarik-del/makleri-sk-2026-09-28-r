@@ -1,0 +1,18 @@
+# ZUKVE - Apartmán pri mori - na predaj
+
+> Apartmán sa nachádza v budove s celkovým počtom siedmich apartmánov. Apartmán pozostáva z chodby, kuchyne, jedálne, obývačky, kúpeľne, dvoch spální a balkóna. Apartmán má rozlohu 60 m2 a predáva sa kompletne zariadený. K apartmánu patrí jedno parkovacie miesto a záhrada o výmere 15 m2.
+
+## Fakta
+- Typ: apartmány
+- Druh nabídky: predaj
+- Dispozice: 2-izbový
+- Podlaží: 0
+- Lokalita: Vrsi
+- Cena: 228 000 €
+
+## Kontakt
+- Makléř: Roman Bičiar - Chorvátsko
+- Telefon: +421911760999
+- E-mail: biciar.roman@gmail.com
+- Kancelář: reality BIČIAR, s.r.o.
+- Web kanceláře: https://www.reality-biciar.sk/
